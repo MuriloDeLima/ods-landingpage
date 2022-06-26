@@ -1,0 +1,360 @@
+  .wrapper{
+    position: absolute;
+    width: 100%;
+    height: 2850px;
+    top: 0px;
+    left: 0px;
+    background: #de1768;
+  }
+  
+  .header{
+    position: absolute;
+    width: 100%;
+    height: 175px;
+    left: 0px;
+    top: 0px;
+    background: #ffffff;
+  }
+  
+  .hd-logo{
+    position: absolute;
+    width: 800px;
+    height: 175px;
+    margin-left: 300px;
+    top: 0px;
+    background: url(../images/ods-hd.png);
+    background-position: center;
+    background-size: cover;
+  }
+  
+  .header2{
+    position: absolute;
+    width: 100%;
+    height: 175px;
+    left: 0px;
+    top: 175px;
+    background: #de1768;
+  }
+  
+  .header-tt{
+    margin-top: 60px;
+    margin-left: 400px;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: #ffffff;
+  }
+  
+  .logo{
+    position: absolute;
+    width: 300px;
+    height: 200px;
+    left: 0px;
+    top: 0px;
+  }
+  
+  .area1{
+    position: absolute;
+    width: 100%;
+    height: 600px;
+    top: 350px;
+    left: 0px;
+    background: #ffffff;
+  }
+  
+  .atext1{
+    position: absolute;
+    width: 750px;
+    height: 500px;
+    left: 30px;
+    top: 115px;
+  }
+  
+  .title1{
+    margin-left: 40px;
+    margin-top: 90px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 23px;
+    font-weight: 700;
+    color: #000000;
+  }
+
+  .text{
+    margin-left: 10px;
+    margin-top: 10px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #000000;
+  }
+
+  .area2{
+    position: absolute;
+    width: 100%;
+    height: 500px;
+    top: 950px;
+    left: 0px;
+    background: #de1768;
+  }
+  
+  .atext2{
+    position: absolute;
+    width: 775px;
+    height: 300px;
+    left: 715px;
+    top: 105px;
+  }
+  
+  .title2{
+    margin-top: 55px;
+    margin-left: 725px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    font-weight: 700;
+    color: #ffffff;
+  }
+
+  .text2{
+    margin-left: 10px;
+    margin-top: 10px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: #ffffff;
+  }
+  
+  .area3{
+    position: absolute;
+    width: 100%;
+    height: 600px;
+    top: 1450px;
+    left: 0px;
+    background: #ffffff;
+  }
+
+  .title3{
+    margin-left: 40px;
+    margin-top: 60px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 23px;
+    font-weight: bold;
+    color: #000000;
+  }
+
+  .atext3{
+    position: absolute;
+    width: 750px;
+    height: 500px;
+    left: 30px;
+    top: 100px;
+  }
+
+  .text3{
+    margin-left: 10px;
+    margin-top: 10px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #000000;
+  }
+  
+  .area4{
+    position: absolute;
+    width: 100%;
+    height: 600px;
+    top: 2050px;
+    left: 0px;
+    background: #de1768;
+  }
+
+  .title4{
+    margin-left: 725px;
+    margin-top: 60px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    font-weight: 700;
+    color: #ffffff;
+  }
+
+  .atext4{
+    position: absolute;
+    width: 750px;
+    height: 450px;
+    left: 715px;
+    top: 120px;
+  }
+
+  .meta1{
+    margin-left: 10px;
+    margin-top: 10px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: #ffffff;
+  }
+
+  .imgxy-1{
+    position: absolute;
+    width: 650px;
+    height: 500px;
+    left: 800px;
+    top: 70px;
+  }
+
+  .imgxy-2{
+    position: absolute;
+    width: 350px;
+    height: 350px;
+    margin-left: 90px;
+    top: 65px; 
+    background: url(../images/odswt-logo.jpeg);
+    background-position: center;
+    background-size: cover;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+    border-top-right-radius: 25px;
+    filter: drop-shadow(10px 15px 10px #ffffff3d);
+  }
+
+  .imgs2{
+    position: absolute;
+    width: 367px;
+    height: 375px;
+    margin-left: 70px;
+    top: 50px; 
+    background: #00000079;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 25px;
+  }
+  
+  .imgxy-3{
+    width: 650px;
+    height: 400px;
+    margin-left: 800px;
+    margin-top: 15px;
+  }
+
+  .imgxy-4{
+    position: absolute;
+    width: 450px;
+    height: 450px;
+    margin-left: 60px;
+    top: 55px;
+  }
+  
+  .imgs{
+    width: 700px;
+  }
+
+  .imgs3{
+    width: 650px;
+  }
+
+  .imgs4{
+    width: 450px;
+  }
+  
+  
+  #circle{
+    width: 90px;
+    height: 90px;
+    border-radius: 50%;
+    position: absolute;
+    animation: circle 2s infinite;
+  }
+  
+  @keyframes circle{
+    0%{top: 15px; left: 1300px; background: url(../images/ods10.png); background-size: cover;}
+    50%{top: 15px; left: 1340px; background: url(../images/ods10.png); background-size: cover;}
+    100%{top: 15px; left: 1300px; background: url(../images/ods10.png); background-size: cover;}
+   }
+   
+  .footer{
+    width: 100%;
+    height: 200px;
+    left: 0px;
+    bottom: 0px;
+    position: absolute;
+    background: #00000079;
+    border-top: 2px solid #ffffff;
+   }
+ 
+  .footer-text1{
+    position: absolute;
+    width: 400px;
+    height: 40px;
+    bottom: 75px;
+    margin-left: 140px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px;
+    font-weight: 700;
+    color: #ffffff;
+  }
+
+  .footer-text2{
+    position: absolute;
+    width: 405px;
+    height: 40px;
+    bottom: 5px;
+    margin-left: 1105px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    font-weight: 700;
+    color: #ffffff;
+  }
+
+  .onu{
+    width: 110px;
+    margin-top: 85px;
+    margin-left: 15px;
+  }
+
+  #instagram{
+    width: 45px;
+    margin-left: 15px;
+    margin-bottom: 5px;
+  }
+
+  #instagram:active{
+    transform: scale(0.90);
+  }
+
+  #youtube{
+    width: 50px;
+    margin-left: 10px;
+    margin-bottom: 2px;
+  }
+
+  #youtube:active{
+    transform: scale(0.90);
+  }
+
+  #twitter{
+    width: 45px;
+    margin-left: 10px;
+    margin-bottom: 6px;
+  }
+
+  #twitter:active{
+    transform: scale(0.90);
+  }
+
+  #facebook{
+    width: 45px;
+    margin-left: 10px;
+    margin-bottom: 6px;
+  }
+
+  #facebook:active{
+    transform: scale(0.90);
+  }
